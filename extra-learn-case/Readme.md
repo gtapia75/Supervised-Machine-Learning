@@ -11,6 +11,7 @@ ExtraaLearn is an initial stage startup that offers programs on cutting-edge tec
 The data contains the different attributes of leads and their interaction details with ExtraaLearn. The detailed data dictionary is given below.
 
 | Field | Description |
+| --- | --- |
 | ID | ID of the lead |
 | age | Age of the lead |
 | current_occupation | Current occupation of the lead. Values include 'Professional','Unemployed',and 'Student' |
