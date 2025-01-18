@@ -20,7 +20,7 @@ Based on my experience working with different models some considerations of Regr
 
 | Algorithm | Type | Pros | Cons | How to Measure |
 | --- | --- | --- | --- | ---|
-| Logistic Regression | Supervised | • Simple to implement<br>• Fast training<br>• Highly interpretable | • Only linear boundaries<br>• Needs feature scaling<br>• Limited to binary/linear• Accuracy<br>• ROC-AUC<br>• Precision-Recall | 
+| Logistic Regression | Supervised | • Simple to implement<br>• Fast training<br>• Highly interpretable | • Only linear boundaries<br>• Needs feature scaling<br>• Limited to binary/linear | • Accuracy<br>• ROC-AUC<br>• Precision-Recall | 
 | Random Forest Classifier | Supervised | • Handles non-linear data<br>• Less overfitting<br>• Feature importance | • Slow training<br>• Black box decisions<br>• Memory intensive | • Accuracy<br>• F1-Score<br>• Confusion Matrix |
 | XGBoost Classifier | Supervised | • High performance<br>• Handles imbalanced data<br>• Good with missing values | • Complex tuning<br>• Can overfit<br>• Resource intensive | • Accuracy<br>• F1-Score<br>• AUC-ROC | 
 | Support Vector Machine | Supervised | • Works in high dimensions<br>• Memory efficient<br>• Different kernel options | • Sensitive to scaling<br>• Slow for large datasets<br>• Hard to interpret | • Accuracy<br>• F1-Score<br>• ROC-AUC | 
