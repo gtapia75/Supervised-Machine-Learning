@@ -20,10 +20,10 @@ The data contains the different attributes of leads and their interaction detail
 | website_visits | How many times has a lead visited the website |
 | time_spent_on_website | Total time spent on the website |
 | page_views_per_visit | Average number of pages on the website viewed during the visits. |
-| last_activity | Last interaction between the lead and ExtraaLearn. |
-| Email Activity | Seeking for details about program through email, Representative shared information with lead like brochure of program , etc |
-| Phone Activity | Had a Phone Conversation with representative, Had conversation over SMS with representative, etc |
-| Website Activity | Interacted on live chat with representative, Updated profile on website, etc |
+| last_activity | Last interaction between the lead and ExtraaLearn. 
+                - Email Activity: Seeking for details about program through email, Representative shared information with lead like brochure of program , etc 
+                - Phone Activity: Had a Phone Conversation with representative, Had conversation over SMS with representative, etc 
+                - Website Activity: Interacted on live chat with representative, Updated profile on website, etc |
 | print_media_type1 | Flag indicating whether the lead had seen the ad of ExtraaLearn in the Newspaper. |
 | print_media_type2 | Flag indicating whether the lead had seen the ad of ExtraaLearn in the Magazine. |
 | digital_media | Flag indicating whether the lead had seen the ad of ExtraaLearn on the digital platforms. |
